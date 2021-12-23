@@ -23,3 +23,5 @@
 <img align="left" alt="Bootstrap" width="26px" src="https://bootstrap-4.ru/docs/5.1/assets/brand/bootstrap-logo.svg" />
 
 [telegram]: https://t.me/vladislav_pvd
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vladislavpvd)](https://github.com/anuraghazra/github-readme-stats)
