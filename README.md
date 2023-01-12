@@ -6,7 +6,7 @@ Frontend developer
 
 My experience in website development is about a year. I was interested in Frontend development, because there is an opportunity to experiment, create beautiful sites, create understandable interfaces.
 
-* ✉️  You can contact me at [working.pvd@gmail.com](mailto:working.pvd@gmail.com)
+* ✉️ You can contact me at [working.pvd@gmail.com](mailto:working.pvd@gmail.com)
 * 💪  I like to write code
 * 🌱  I’m currently learning everything 🤣
 * ⚡  Fun fact: I love to frontend
@@ -26,7 +26,7 @@ My experience in website development is about a year. I was interested in Fronte
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a>
 </p>
 
 
@@ -38,6 +38,6 @@ My experience in website development is about a year. I was interested in Fronte
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/vladislavpvd"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vladislavpvd&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://github.com/vladislavpvd"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vladislavpvd&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/vladislavpvd" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladislavpvd&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
