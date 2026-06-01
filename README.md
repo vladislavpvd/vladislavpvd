@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vladislav (Vlad) Pigachev
 
-**Frontend Developer (Vue.js)
+**Frontend Developer (Vue.js)**
 
 > 3+ years creating adaptive, pixel-perfect interfaces. Currently growing from UI implementation to full frontend logic.
 
